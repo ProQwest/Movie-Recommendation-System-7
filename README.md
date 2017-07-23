@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This program makes movies recommendations to different users.
+This program makes movies recommendations to different users using collaborative filtering data science algorithms.
 
 ## Training Data
 The training data for the predictions is a set of movie ratings by 200 different users and 1000 movies. A rating is a number between 1 through 5. One of the training data files can be seen [here](https://github.com/kvelcich/Movie-Recommendation-System/blob/master/text/test20.txt). The first column is the user id, the second column is the movie number and the third column is the rating of that row's user for that row's movie.
