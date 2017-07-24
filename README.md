@@ -15,4 +15,4 @@ In attempt to predict a users ratings, a used the following methods:
 3. Medley between user-based and item-based collaborative filtering
 
 ## Results
-This project was a classwide competition for where I placed first giving the most accurate predictions to the 'actual truth'.
+This project was a classwide competition where I placed first giving the most accurate predictions to the 'actual truth'.
